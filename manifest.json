@@ -1,9 +1,11 @@
 {
   "name": "Interplanet Recargas",
-  "short_name": "Interplanet",
+  "short_name": "IP-Recargas",
+  "description": "Sistema de Gestión Interplanet",
   "start_url": "index.html",
   "display": "standalone",
-  "background_color": "#f8f9fa",
+  "orientation": "portrait",
+  "background_color": "#005490",
   "theme_color": "#005490",
   "icons": [
     {
