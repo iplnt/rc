@@ -1,0 +1,15 @@
+{
+  "name": "La Montañita",
+  "short_name": "Montañita",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#2c3e50",
+  "theme_color": "#2c3e50",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEj-xikoXHxPULLuUJLOR19xhBHW-__HTBNbjU54Uzk_Yewk_-b2B_SKT7qE3VEua6Gmw_kqiH7HSzBBjUA_589XkUdXtPt0SBqoKkRLtjkvoDRt3D8553k-eyO6zu4ZM7xcp-Q6xvYmvum2vrStm7ISIAlbePFu45rgrc6N3E5ppBTQCWi0hkjHaCRFHRtN",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
